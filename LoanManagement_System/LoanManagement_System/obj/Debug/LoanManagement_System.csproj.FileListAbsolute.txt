@@ -1,0 +1,7 @@
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\bin\Debug\LoanManagement_System.exe.config
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\bin\Debug\LoanManagement_System.exe
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\bin\Debug\LoanManagement_System.pdb
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\obj\Debug\LoanManagement_System.csproj.AssemblyReference.cache
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\obj\Debug\LoanManagement_System.csproj.CoreCompileInputs.cache
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\obj\Debug\LoanManagement_System.exe
+C:\Users\SCS\OneDrive\Desktop\LoanManagement_System\LoanManagement_System\obj\Debug\LoanManagement_System.pdb
